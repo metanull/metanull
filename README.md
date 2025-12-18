@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hey there! I'm Pascal
 
-<!--
-**metanull/metanull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+### 🚀 Developer | 🔐 Security Enthusiast | 📚 Lifelong Learner
 
-Here are some ideas to get you started:
+*Building secure web applications with passion & precision*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 💡 What Drives Me
+
+I'm a developer passionate about **webapps**, **security**, and **continuous learning**. My philosophy is simple but powerful:
+
+> **Good requirements + Quality data & code = Success** 
+> 
+> Everything starts with clarity and craftsmanship.
+
+---
+
+## 🌟 Beyond Code
+
+- 🏛️ **Volunteer** at [museumwnf.org](https://museumwnf.org) – giving back to the community
+- 🎨 **Creative side** – Drawing & comics are my artistic outlets
+- 🧠 Always curious, always learning something new
+
+---
+
+## 🛤️ My Tech Journey
+
+From bare metal to cloud-native – here's the path I've traveled:
+
+```
+unix → vi → x86 → asm → c → sql → c++ → oracle → visual studio → 
+windows sdk → html → java → linux → bash → amx → crestron simpl → 
+apache httpd → xslt → css → cgi → php → mysql → javascript → c# → 
+coldfusion → jira → git → vscode → laravel → mariadb → bitbucket → 
+vue.js → openapi → owasp top 10 → burp → powershell → zap → github → 
+yml → azure devops → node.js → claude
+```
+
+**40+ technologies and counting** – each one a chapter in an evolving story 📖
+
+---
+
+## 🎯 Core Values
+
+- ✅ **Quality First** – Code should be clean, data should be reliable
+- 📝 **Requirements Matter** – Good specs prevent future headaches  
+- 🔒 **Security-Minded** – OWASP Top 10, Burp, ZAP – security isn't optional
+- 🤝 **Community Driven** – Sharing knowledge and giving back
+
+---
+
+<div align="center">
+  
+**Let's build something amazing together!** 🚀
+
+*Currently exploring AI-assisted development with Claude* 🤖
+
+</div>

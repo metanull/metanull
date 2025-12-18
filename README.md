@@ -32,9 +32,9 @@ Security-aware web applications, DevOps automation, and modern JavaScript framew
 - 🎄 **[adventofcode](https://github.com/metanull/adventofcode)** - Advent of Code solutions
 
 ### PowerShell Gallery
-- ⚙️ **MetaNull.ModuleMaker** - PowerShell module scaffolding
-- 📝 **MetaNull.ConfluenceIngest** - Confluence data integration
-- 🔄 **MetaNull.AzureDevOpsIngest** - Azure DevOps automation
+- ⚙️ **[MetaNull.ModuleMaker](https://www.powershellgallery.com/packages/MetaNull.ModuleMaker)** - PowerShell module scaffolding
+- 📝 **[MetaNull.ConfluenceIngest](https://www.powershellgallery.com/packages/MetaNull.ConfluenceIngest)** - Confluence data integration
+- 🔄 **[MetaNull.AzureDevOpsIngest](https://www.powershellgallery.com/packages/MetaNull.AzureDevOpsIngest)** - Azure DevOps automation
 
 *Additional projects available on Bitbucket*
 

@@ -22,7 +22,7 @@ I'm a developer passionate about **webapps**, **security**, and **continuous lea
 
 ## 🌟 Beyond Code
 
-- 🏛️ **Volunteer** at [museumwnf.org](https://museumwnf.org) – giving back to the community
+- 🏛️ **Volunteer** at [museumwnf.org](https://museumwnf.org)
 - 🎨 **Creative side** – Drawing & comics are my artistic outlets
 - 🧠 Always curious, always learning something new
 
@@ -51,6 +51,11 @@ yml → azure devops → node.js → claude
 - 📝 **Requirements Matter** – Good specs prevent future headaches  
 - 🔒 **Security-Minded** – OWASP Top 10, Burp, ZAP – security isn't optional
 - 🤝 **Community Driven** – Sharing knowledge and giving back
+    > [museumwnf.org](https://museumwnf.org)
+    > [inventory-app](https://metanull.github.io/inventory-app)
+    > [MetaNull.ModuleMaker](https://www.powershellgallery.com/packages/MetaNull.ModuleMaker)
+    > [appscan-client](https://github.com/metanull/appscan-client)
+    > [tariqa](https://interoperable-europe.ec.europa.eu/collection/politics/solution/tariqa)
 
 ---
 

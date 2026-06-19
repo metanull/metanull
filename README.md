@@ -55,6 +55,7 @@ yml → azure devops → node.js → claude
     > [inventory-app](https://metanull.github.io/inventory-app)
     > [MetaNull.ModuleMaker](https://www.powershellgallery.com/packages/MetaNull.ModuleMaker)
     > [appscan-client](https://github.com/metanull/appscan-client)
+    > [appsec-scout-2](https://github.com/metanull/appsec-scout-2)
     > [tariqa](https://interoperable-europe.ec.europa.eu/collection/politics/solution/tariqa)
 
 ---
